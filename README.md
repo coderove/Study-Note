@@ -1,2 +1,2 @@
-# -Study-Note
+# Study-Note
 数据结构
